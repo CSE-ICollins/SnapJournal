@@ -124,16 +124,6 @@ Summary of the final code:
 - Added video thumbnails using `MediaMetadataRetriever`.
 - Added video playback on the detail screen with `VideoView`.
 
-### Screenshot Slots
-
-Add screenshots here before submitting:
-
-- Home screen showing saved entries.
-- New Journal Entry screen with `Photo` and `Video` buttons.
-- Video mode with `Record Video`.
-- Flash toggle visible.
-- Saved video entry on the detail screen.
-
 ### Short Reflection
 
 AI helped turn a photo-only journal into a richer media journal. The most useful part was getting a clear plan for where the feature needed changes: Gradle dependencies, Room data model, camera UI, CameraX recording code, internal storage, and video playback. I still had to test the app and understand how the new feature fit the assignment requirements.
