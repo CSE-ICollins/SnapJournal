@@ -195,14 +195,6 @@ The final build configuration:
 - KSP remains configured for Room.
 - The experimental Kotlin source set workaround remains because it avoids a harder Room/KSP generated-source failure.
 
-### Screenshot Slots
-
-Add screenshots here before submitting:
-
-- Screenshot of the original build error.
-- Screenshot after Gradle sync/build gets past the compileSdk error.
-- Screenshot of the app running.
-
 ### Short Reflection
 
 AI helped identify the difference between a warning and a real build failure. The compile SDK mismatch needed a real configuration change, while the experimental Kotlin source set message was only a warning. The duplicate Kotlin plugin caused a hard failure, so reverting that change was the correct fix.
