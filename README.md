@@ -3,8 +3,8 @@
 SnapJournal is a photo and video journal app for Android. Users can capture a moment, add a title and notes, and save the entry locally on the device.
 
 ## Videos
-https://youtu.be/bAPRZHYzqgc
-https://youtube.com/shorts/cFW67FXxU38?feature=share
+- https://youtu.be/bAPRZHYzqgc
+- https://youtube.com/shorts/cFW67FXxU38?feature=share
 
 ## App 2 Requirements Checklist
 
